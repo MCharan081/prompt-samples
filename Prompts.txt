@@ -1,0 +1,86 @@
+# Prompt Engineering Practice Notes
+## Overview
+This repository contains my Prompt Engineering practice notes.  
+## Date: 20-02-2026
+
+### 1,Large Language Models (LLMs)
+**Input:** What is LLM in AI?  
+**Output:** LLM stands for Large Language Model. It is an AI system trained on large amounts of text data to understand and generate human language.  
+
+**Observation:** Learned that LLMs are trained on large datasets to understand human language.
+
+**Improved Prompt:** Explain LLMs for a 9-year-old.  
+**Output:** LLM stands for Large Language Model. Examples include ChatGPT created by OpenAI.
+
+## Date: 24-02-2026
+
+### 2,Blockchain
+**Input:** What is blockchain?  
+**Output:** Blockchain is a digital system used to record data in a secure, decentralized, and hard-to-change way.  
+
+**Improved Prompt:** Explain blockchain to an investor.  
+**Output:** Blockchain is a secure digital system that records transactions, reduces fraud, improves security, and lowers transaction costs.
+
+### 3,Deep Learning
+**Input:** What is deep learning?  
+**Output:** Deep learning is a type of AI that allows computers to learn from large amounts of data using neural networks.  
+
+**Improved Prompt:** Explain deep learning to a business executive.  
+**Output:** Deep learning is a type of AI that helps computers learn from large data to make decisions, recognize patterns, and predict outcomes.
+
+### 4,Transformers in LLMs
+**Input:** What are transformers in LLMs?  
+**Output:** Transformers are deep learning models that help LLMs like ChatGPT understand context by reading the full sentence instead of word by word.  
+
+**Improved Prompt:** Explain transformers in simple words with an example.  
+**Output:** Transformers help AI understand the meaning of words by looking at the full sentence.  
+**Example:** “India made a trade deal with the EU” → AI understands full meaning by reading all words together.
+
+## Date: 05-03-2026
+
+### 5,Use of LLMs in Business
+**Input:** How are LLMs used in business?  
+**Output:** LLMs are used in business for automation, customer service, content creation, data analysis, and decision-making.  
+
+**Improved Prompt:** How are LLMs used in business operations?  
+**Output:** LLMs are used in content creation, data analysis, automation, and decision-making.
+
+### 6,LLM Explanation Practice
+**Input:** Write 50 words about LLMs.  
+**Output:** LLMs are AI systems that generate human-like text, understand context, translate languages, and assist in writing.  
+
+**Improved Prompt:** Write 50 words about LLMs for high school students.  
+**Output:** LLMs are smart AI programs that read and write like humans. They are trained on books and websites and help in homework, chatbots, translation, and creative writing.
+
+### 7,Multimodal LLMs
+**Input:** What is multimodal in LLMs?  
+**Output:** A multimodal LLM can understand text, images, audio, and video.  
+
+**Improved Prompt:** Explain multimodal LLMs with an example.  
+**Output:** A multimodal LLM can understand different types of data like text and images.  
+**Example:** If you show a cat image and ask “What is this?”, it replies “A cat sitting on a chair.”
+
+## Date: 12-03-2026
+
+### 8,Backpropagation
+**Input:** What is backpropagation?  
+**Output:** Backpropagation is a method that helps AI learn from mistakes by correcting errors in predictions.  
+
+**Improved Prompt:** Explain backpropagation to a 9-year-old.  
+**Output:** Backpropagation is like a teacher correcting your homework so you can improve next time.
+
+## Date: 29-05-2026
+
+### 9,Ethical Hacking
+**Input:** What is ethical hacking?  
+**Output:** Ethical hacking is testing systems legally to find security problems before attackers do.  
+
+**Improved Prompt:** Why is ethical hacking important?  
+**Output:** It helps protect systems by finding weak points before hackers can use them.
+
+### 10,Firewall
+**Input:** What is a firewall?  
+**Output:** A firewall is a security system that monitors and controls network traffic.  
+
+**Improved Prompt:** Explain firewall simply.  
+**Output:** A firewall is like a security guard that blocks bad traffic from entering your computer.
