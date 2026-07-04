@@ -10,4 +10,4 @@ Each topic contains:
 * Improved Output
 
 ## Learning Outcome->
-The purpose of this repository is to understand how different prompt styles affect AI responses and how improving prompts leads to better and more accurate outputs.
+* The purpose of this repository is to understand how different prompt styles affect AI responses and how improving prompts leads to better and more accurate outputs.
