@@ -1,4 +1,4 @@
-## prompt-samples
+## Prompt-Samples
 ## Description->
 * This repository contains my Prompt Engineering practice notes.It includes examples of prompts, outputs, and improved prompts to demonstrate how prompt refinement improves AI responses.
 
