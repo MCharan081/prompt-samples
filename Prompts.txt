@@ -309,3 +309,6 @@ AI understands the relationship between India, trade deal, and EU by analyzing t
 **Output:** Teamwork means people working together and combining their skills to complete a task successfully.
 
 **Example:** In a software project, developers, designers, and testers work together to build and improve an application.
+
+
+
